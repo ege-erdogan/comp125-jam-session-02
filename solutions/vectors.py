@@ -13,11 +13,11 @@ import math
 '''
 READ THIS FIRST:
     I've also included solutions with different approaches below. 
-    You don't have to spend time with, but you can look more into them if you are interested in more advanced features of Python. 
+    You don't have to spend time with them, but you can look more into them if you are interested in more advanced features of Python. 
     I've specifically used these two:
     - the zip() method -> https://www.programiz.com/python-programming/methods/built-in/zip
     - list comprehensions -> https://www.pythonforbeginners.com/basics/list-comprehensions-in-python
-    These don't let you you anything new, but can help you write shorter code.
+    These don't let you do anything new, but can help you write shorter code.
 '''
 
 # ----- ADD VECTORS -----
